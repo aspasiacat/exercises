@@ -1,4 +1,3 @@
-
 /*********************************************
  *                                           *
  *  This program finds the divisors of a     *
