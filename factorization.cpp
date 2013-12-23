@@ -1,7 +1,6 @@
-
 /*********************************************
  *                                           *
- *  This is program calculates the           *
+ *  This program calculates the              *
  *  factorization in prime numbers of a      *
  *  number entered by the user.              *
  *                                           *
