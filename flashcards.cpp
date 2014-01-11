@@ -1,4 +1,3 @@
-
 /*********************************************
  *                                           *
  *  This program implements a deck of cards  *
